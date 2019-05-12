@@ -1,0 +1,12 @@
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\bin\Debug\Max7456 Font Creator.exe.config
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\bin\Debug\Max7456 Font Creator.exe
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\bin\Debug\Max7456 Font Creator.pdb
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\bin\Debug\MetroFramework.Design.dll
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\bin\Debug\MetroFramework.dll
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\bin\Debug\MetroFramework.Fonts.dll
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\obj\Debug\Max7456 Font Creator.csprojResolveAssemblyReference.cache
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\obj\Debug\Max7456_Font_Creator.Form1.resources
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\obj\Debug\Max7456_Font_Creator.Properties.Resources.resources
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\obj\Debug\Max7456 Font Creator.csproj.GenerateResource.Cache
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\obj\Debug\Max7456 Font Creator.exe
+D:\Arga.master\Projects\[ Arga SW ]\Max7456 Font Creator\Max7456 Font Creator\obj\Debug\Max7456 Font Creator.pdb
